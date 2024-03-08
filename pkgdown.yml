@@ -1,0 +1,19 @@
+pandoc: 3.1.11
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  usage-ahr: usage-ahr.html
+  usage-expected-accrual: usage-expected-accrual.html
+  usage-expected-event: usage-expected-event.html
+  usage-expected-time: usage-expected-time.html
+  usage-fixed-design: usage-fixed-design.html
+  usage-gs-b: usage-gs-b.html
+  usage-gs-info-ahr: usage-gs-info-ahr.html
+  usage-gs-power-npe: usage-gs-power-npe.html
+  usage-gs-spending-bound: usage-gs-spending-bound.html
+  usage-summary-as-gt: usage-summary-as-gt.html
+last_built: 2024-03-08T16:50Z
+urls:
+  reference: https://littlebeannie.github.io/gsDesign2_key_functions_inner_logic/reference
+  article: https://littlebeannie.github.io/gsDesign2_key_functions_inner_logic/articles
+
