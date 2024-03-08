@@ -1,0 +1,23 @@
+Package: gsDesign2KeyFunctionsInnerLogic
+Title: Explain the internal programming logic of key functions of gsDesign2
+Version: 1.0.0
+Authors@R: c(
+    person("Yujie", "Zhao", email = "yujie.zhao@merck.com", role = c("aut", "cre")))
+Description: Explain the internal programming logic of key functions of gsDesign2
+License: GPL-3
+Encoding: UTF-8
+Depends:
+    R (>= 3.5.0)
+Imports:
+    gsDesign2,
+    tibble,
+    gt,
+    dplyr
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+VignetteBuilder:
+    knitr
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
