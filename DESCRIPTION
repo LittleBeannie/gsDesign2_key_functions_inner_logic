@@ -21,3 +21,4 @@ VignetteBuilder:
     knitr
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
+URL: https://littlebeannie.github.io/gsDesign2_key_functions_inner_logic/
