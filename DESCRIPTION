@@ -12,7 +12,8 @@ Imports:
     gsDesign2,
     tibble,
     gt,
-    dplyr
+    dplyr,
+    simtrial
 Suggests:
     knitr,
     rmarkdown,
